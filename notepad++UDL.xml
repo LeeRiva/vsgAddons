@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="VulkanSceneGraph" ext="vsgt" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments"></Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1">=</Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open">{</Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close">}</Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">id&#x000D;&#x000A;&#x000D;&#x000A;&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords2">children&#x000D;&#x000A;properties&#x000D;&#x000A;userObjects&#x000D;&#x000A;key&#x000D;&#x000A;value</Keywords>
+            <Keywords name="Keywords3">size&#x000D;&#x000A;source&#x000D;&#x000A;code&#x000D;&#x000A;vulkanVersion&#x000D;&#x000A;clientInputVersion&#x000D;&#x000A;language&#x000D;&#x000A;defaultVersion&#x000D;&#x000A;target &#x000D;&#x000A;mask&#x000D;&#x000A;stage&#x000D;&#x000A;entryPointName&#x000D;&#x000A;generateDebugInfo&#x000D;&#x000A;forwardCompatible&#x000D;&#x000A;defines&#x000D;&#x000A;element&#x000D;&#x000A;&quot;storage id&quot;&#x000D;&#x000A;matrix&#x000D;&#x000A;width&#x000D;&#x000A;height&#x000D;&#x000A;data indexCount&#x000D;&#x000A;instanceCount&#x000D;&#x000A;firstIndex&#x000D;&#x000A;vertexOffset&#x000D;&#x000A;firstInstance&#x000D;&#x000A;Layout&#x000D;&#x000A;NumLocations&#x000D;&#x000A;time&#x000D;&#x000A;position&#x000D;&#x000A;orientation&#x000D;&#x000A;scale</Keywords>
+            <Keywords name="Keywords4">Root&#x000D;&#x000A;vsg::Node&#x000D;&#x000A;vsg::StateCommand&#x000D;&#x000A;vsg::GraphicsPipelineState&#x000D;&#x000A;Array&#x000D;&#x000A;Indices&#x000D;&#x000A;vsg::Descriptor&#x000D;&#x000A;vsg::Object&#x000D;&#x000A;object&#x000D;&#x000A;pipeline&#x000D;&#x000A;layout&#x000D;&#x000A;descriptorLayout&#x000D;&#x000A;module&#x000D;&#x000A;hints&#x000D;&#x000A;image&#x000D;&#x000A;sampler&#x000D;&#x000A;descriptorSet</Keywords>
+            <Keywords name="Keywords5">firstBinding&#x000D;&#x000A;NumArrays&#x000D;&#x000A;stateCommands&#x000D;&#x000A;slot&#x000D;&#x000A;flags&#x000D;&#x000A;setLayouts&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords6">vsg::Group&#x000D;&#x000A;vsg::MatrixTransform&#x000D;&#x000A;vsg::stringValue&#x000D;&#x000A;vsg::StateGroup&#x000D;&#x000A;vsg::VertexIndexDraw&#x000D;&#x000A;vsg::vec3Array&#x000D;&#x000A;vsg::vec2Array&#x000D;&#x000A;vsg::vec4Value&#x000D;&#x000A;vsg::ushortArray&#x000D;&#x000A;vsg::BindGraphicsPipeline&#x000D;&#x000A;vsg::ShaderStage&#x000D;&#x000A;vsg::ViewDescriptorSetLayout vsg::ShaderCompileSettings&#x000D;&#x000A;vsg::ShaderModule&#x000D;&#x000A;vsg::DescriptorSetLayout&#x000D;&#x000A;vsg::GraphicsPipeline&#x000D;&#x000A;vsg::PipelineLayout&#x000D;&#x000A;vsg::BindDescriptorSet&#x000D;&#x000A;vsg::DescriptorSet&#x000D;&#x000A;vsg::DescriptorImage&#x000D;&#x000A;vsg::block64Array2D&#x000D;&#x000A;vsg::PbrMaterialValue&#x000D;&#x000A;vsg::Sampler&#x000D;&#x000A;vsg::DescriptorBuffer vsg::BindViewDescriptorSets&#x000D;&#x000A;vsg::Objects&#x000D;&#x000A;vsg::AnimationPath&#x000D;&#x000A;vsg::vec4Array&#x000D;&#x000A;vsg::VertexInputState&#x000D;&#x000A;vsg::InputAssemblyState&#x000D;&#x000A;vsg::RasterizationState&#x000D;&#x000A;vsg::MultisampleState&#x000D;&#x000A;vsg::ColorBlendState&#x000D;&#x000A;vsg::DepthStencilState</Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00&quot; 01 02&quot; 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0080C0" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="0080C0" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="0080C0" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="FF8040" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="0080C0" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="804000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontStyle="2" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
