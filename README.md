@@ -1,4 +1,4 @@
-# vsgAddons
-Assorted stuff
+This repo just holds assorted stuff I want to keep track of..
 
-Just some things I'm using and want to keep track of.. probably useful to others too..
+# Notepad++ user-defined language definition for Vulkan Scene Graph text files:
+![notepad++](https://github.com/LeeRiva/vsgAddons/assets/76054616/a2806c70-8433-46c1-810a-bf2ad69c6b5a)
